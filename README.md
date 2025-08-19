@@ -1,4 +1,5 @@
 # 🐱 PassCat
+(make sure to have logo in the same directory as the file or it will not work)
 
 # ✨ Features
 
